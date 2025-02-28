@@ -1,2 +1,2 @@
 # merito
-Rrpozytorium WSB Merito
+Repozytorium WSB Merito
